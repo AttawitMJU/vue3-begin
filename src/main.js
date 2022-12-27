@@ -10,6 +10,8 @@ import "./assets/main.css";
 import "bootstrap/dist/css/bootstrap.css";
 // Import all of Bootstrap's JS
 import "bootstrap/dist/js/bootstrap.js";
+// Import all of Bootstrap's Icons
+import "bootstrap-icons/font/bootstrap-icons.css";
 
 const app = createApp(App);
 

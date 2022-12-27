@@ -12,6 +12,12 @@ import HelloWorld from "./components/HelloWorld.vue";
       width="125"
       height="125"
     />
+    <i class="bi bi-airplane"></i>
+    <i class="bi-alarm" style="font-size: 2rem; color: cornflowerblue"></i>
+    <button type="button" class="btn btn-outline-primary">
+      <i class="bi bi-bookmark-plus-fill text-primary"></i> Bookmark
+    </button>
+
     <div class="card text-bg-primary mb-3" style="max-width: 18rem">
       <div class="card-header">Header</div>
       <div class="card-body">
